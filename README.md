@@ -1,18 +1,20 @@
-# 100 Next Gen AI Engineers Training - Cohort 4
+# UST-GenAIEngineer-cohort-4
 
-This repo is to store the assignments and solutions
+Assignments and solutions for the 100 Next GenAI Engineer program.
 
-topics covered so far
-   python, data analysis, python modules
-   AI landscape
-   ML deep dive [learning types, Algorithms]
-   DL deep dive 
-   GenAI
-   Transformers Architecture [like GPT]
-   LLMs
-   Prompting and it's techniques
-   Langchain
-   RAG
+## Topics Covered So Far
+
+- Python (basics, NumPy, Pandas, Matplotlib)
+- AI Landscape
+- Machine Learning (learning types, algorithms)
+- Deep Learning (neural networks, CNN-Convolutional Neural Network, RNN-Recurrent Neural Network)
+- Transformer Architecture
+- GenAI & LLM-Large Language Models
+- Prompt engineering: zero-shot, few-shot, CoT-Chain of Thought
+- RAG-Retrieval-Augmented Generation
+- LangChain, LangGraph
+
+## Assignments
 
 - **Assignment-1** : [link](https://github.com/TharunPatel20/UST-GenAIEngineer-cohort-4/tree/main/Assignment-1)
 - **Assignment-2** : [link](https://github.com/TharunPatel20/UST-GenAIEngineer-cohort-4/tree/main/Assignment-2)
