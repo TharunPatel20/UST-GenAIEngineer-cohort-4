@@ -13,8 +13,11 @@ Assignments and solutions for the 100 Next GenAI Engineer program.
 - Prompt engineering: zero-shot, few-shot, CoT-Chain of Thought
 - RAG-Retrieval-Augmented Generation
 - LangChain, LangGraph
+- Agents vs AI-Agents
 
 ## Assignments
 
 - **Assignment-1** : [link](https://github.com/TharunPatel20/UST-GenAIEngineer-cohort-4/tree/main/Assignment-1)
 - **Assignment-2** : [link](https://github.com/TharunPatel20/UST-GenAIEngineer-cohort-4/tree/main/Assignment-2)
+- **Assignment-2** : [link](https://github.com/TharunPatel20/UST-GenAIEngineer-cohort-4/tree/main/Assignment-3)
+
